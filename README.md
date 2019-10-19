@@ -5,6 +5,7 @@
 # supply : 180,000,000
 # smartcontract : 0xc9c69a216568dE4d5B991b05cc9C382494FfA62e
 # website : https://okayamatoken.com
+# whitepaper : https://drive.google.com/file/d/1sW245xWF78H7Lk9IfXBZpKOr94QzcM3J/view
 # email : info@okayama.com
 # community : https://t.me/okayamatoken
 
